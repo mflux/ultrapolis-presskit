@@ -4,7 +4,7 @@
 
 **Ultrapolis is a cyberpunk city diorama with millions of possible buildings. No city management between you and pure layout and design.**
 
-Everything here is free to use in coverage of Ultrapolis. Download the whole kit: Ultrapolis_PressKit.zip.
+Everything here is free to use in coverage of Ultrapolis. Press kit page: https://mflux.github.io/ultrapolis-presskit/
 
 ## Factsheet
 
