@@ -53,6 +53,17 @@ Gameplay trailer: https://youtu.be/xH3_62qZs3c
 | [ultrapolis_container_port_9x16.mp4](videos/ultrapolis_container_port_9x16.mp4) | 1080x1920, H.264 | 31 s | How a container port is generated, step by step |
 | [ultrapolis_fictional_script_9x16.mp4](videos/ultrapolis_fictional_script_9x16.mp4) | 1080x1920, H.264 | 32 s | Inventing the fictional writing system on the city's neon signs |
 
+### Popular YouTube Shorts
+
+- [What if a train ran through your house?](https://www.youtube.com/shorts/DxMLW6wd73k) (5.1K views)
+- [Building a container port](https://www.youtube.com/shorts/7bvEpSRrQ8U) (4.2K views)
+- [Cyberpunk diorama inspired by Townscaper](https://www.youtube.com/shorts/VWuYunFAZIQ) (3.2K views)
+- [Cyberpunk city builder](https://www.youtube.com/shorts/FlAy-4PAglY) (3K views)
+- [Temple in a cyberpunk city](https://www.youtube.com/shorts/qcBfO--i_1E) (2.5K views)
+- [12 years of gamedev in 20 seconds](https://www.youtube.com/shorts/Fxd04h228YI) (2.5K views)
+
+More: https://www.youtube.com/@mflux/shorts
+
 ## Screenshots
 
 All from the current build (October 2026). Click one for the full-size file.
