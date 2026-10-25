@@ -45,6 +45,8 @@ Each and every building is procedurally generated and unique to the space it is 
 
 ## Videos
 
+Gameplay trailer: https://youtu.be/xH3_62qZs3c
+
 | File | Format | Length | What it shows |
 | --- | --- | --- | --- |
 | [ultrapolis_reveal_trailer_16x9.mp4](videos/ultrapolis_reveal_trailer_16x9.mp4) | 1920x1080, H.264 | 64 s | The reveal trailer |
@@ -54,6 +56,19 @@ Each and every building is procedurally generated and unique to the space it is 
 ## Screenshots
 
 All from the current build (October 2026). Click one for the full-size file.
+
+### Steam screenshots (1920x1080)
+
+The current screenshots on the Steam page.
+
+[![Teal towers seen from above, traffic below](images/steam/ultrapolis_steam_01.jpg)](images/steam/ultrapolis_steam_01.jpg)
+[![The tower designer: shaping a single building](images/steam/ultrapolis_steam_02.jpg)](images/steam/ultrapolis_steam_02.jpg)
+[![Photo mode at dusk with the colour-look controls](images/steam/ultrapolis_steam_03.jpg)](images/steam/ultrapolis_steam_03.jpg)
+[![A snowbound container port under airships](images/steam/ultrapolis_steam_04.jpg)](images/steam/ultrapolis_steam_04.jpg)
+[![The whole island diorama, with a park and an elevated highway](images/steam/ultrapolis_steam_05.jpg)](images/steam/ultrapolis_steam_05.jpg)
+[![A dense core of towers beside a glowing highway](images/steam/ultrapolis_steam_06.jpg)](images/steam/ultrapolis_steam_06.jpg)
+[![A suspension bridge lit across the island at night](images/steam/ultrapolis_steam_07.jpg)](images/steam/ultrapolis_steam_07.jpg)
+[![The island skyline from the water](images/steam/ultrapolis_steam_08.jpg)](images/steam/ultrapolis_steam_08.jpg)
 
 ### Gameplay (1920x1080, HUD shown)
 
